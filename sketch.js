@@ -7,14 +7,10 @@ function setup() {
     // let canvas =  createCanvas(windowWidth, windowHeight); 
    //     canvas.parent('sketch-holder');
 
-
     createCanvas(windowWidth, windowHeight);
-
 }
 
 function draw() {
-
-
     colorMode(HSB);
     background(lin, 360, 360);
 
