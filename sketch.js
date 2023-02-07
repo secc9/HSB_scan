@@ -3,8 +3,13 @@
 let lin = 0;
 
 function setup() {
-  let canvas =  createCanvas(windowWidth, windowHeight);
-        canvas.parent('sketch-holder');
+//work out how to position the sketch into the htm
+    // let canvas =  createCanvas(windowWidth, windowHeight); 
+   //     canvas.parent('sketch-holder');
+
+
+    createCanvas(windowWidth, windowHeight);
+
 }
 
 function draw() {
