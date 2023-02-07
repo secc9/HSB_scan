@@ -3,7 +3,7 @@
 let lin = 0;
 
 function setup() {
-    createCanvas(windowWidth, windowHeight);
+  let canvas =  createCanvas(windowWidth, windowHeight);
         canvas.parent('sketch-holder');
 }
 
