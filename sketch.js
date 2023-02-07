@@ -4,8 +4,7 @@ let lin = 0;
 
 function setup() {
     createCanvas(windowWidth, windowHeight);
-  //    background(255, 0, 255);
-   // colorMode(HSB);
+        canvas.parent('sketch-holder');
 }
 
 function draw() {
